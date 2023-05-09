@@ -3,3 +3,4 @@ Carlos Esteban Alvarado Ubilluz
 Av Los Chasquis
 Cuarto Software
 Manejo y Configuracion de Software
+El Coso no se debe modificar desde GitHub
